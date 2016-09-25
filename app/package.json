@@ -1,0 +1,14 @@
+{
+  "name": "sanity-editor",
+  "version": "0.0.0",
+  "description": "An electron-vue project",
+  "main": "electron.js",
+  "dependencies": {
+    "vue": "next",
+    "vue-electron": "^1.0.0",
+    "vue-router": "next",
+    "vuex": "next"
+  },
+  "devDependencies": {},
+  "author": ""
+}
